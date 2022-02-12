@@ -9,7 +9,7 @@ using System.Threading;
 using System.IO.Ports;
 
 namespace Common
-{
+{//推到远程master
     struct HandyData
     {
         public string spd;//局编号
