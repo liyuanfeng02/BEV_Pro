@@ -10,6 +10,7 @@ using System.Windows.Forms;
 namespace Common
 {
     //新增内容
+    //修改代码12345
     public enum HANDYID//电批ID
     {
         Handy1,
