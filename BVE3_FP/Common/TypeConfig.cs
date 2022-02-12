@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Common
 {
+    //再分支中编辑的第二次代码
     public struct TConfigLine
     {
         public string[] TypeRef;//品番名称
