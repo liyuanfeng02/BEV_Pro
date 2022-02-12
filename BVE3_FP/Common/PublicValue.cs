@@ -11,6 +11,7 @@ namespace Common
 {
     //新增内容
     //修改代码12345
+    //add code 333
     public enum HANDYID//电批ID
     {
         Handy1,
