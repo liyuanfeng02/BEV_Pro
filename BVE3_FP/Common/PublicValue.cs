@@ -22,7 +22,7 @@ namespace Common
         A2,//A2&A5
         A3//A3&A6
     }
-
+    //修改第二个代码块
     public enum QRType
     { 
         Pana,
