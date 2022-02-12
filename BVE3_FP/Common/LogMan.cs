@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 namespace Common
 {
+    //准备推送到远程
     public enum LogType
     { 
         SD,
