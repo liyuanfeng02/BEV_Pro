@@ -23,6 +23,7 @@ namespace Common
         A3//A3&A6
     }
     //修改第二个代码块
+    //这段是在分支中编辑的
     public enum QRType
     { 
         Pana,
