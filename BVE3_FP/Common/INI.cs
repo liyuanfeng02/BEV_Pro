@@ -6,6 +6,7 @@ using System.Text;
 
 namespace Common
 {
+    //master 有更新内容，但是我这个是刚写完的
     class INI
     {
         /// <summary>
